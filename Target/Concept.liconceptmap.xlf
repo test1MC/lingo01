@@ -8,8 +8,7 @@
     original="Concept.liconceptmap"
     source-language="en-us"
     MadCap:file-filter=""
-    datatype="x-liconceptmap"
-    target-language="es">
+    datatype="x-liconceptmap">
     <header>
       <skl><external-file
           href="Concept.liconceptmap.skl" /></skl>

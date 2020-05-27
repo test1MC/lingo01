@@ -8,8 +8,7 @@
     original="Index.liindexmap"
     source-language="en-us"
     MadCap:file-filter=""
-    datatype="x-liindexmap"
-    target-language="es">
+    datatype="x-liindexmap">
     <header>
       <skl><external-file
           href="Index.liindexmap.skl" /></skl>
